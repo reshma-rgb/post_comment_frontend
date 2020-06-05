@@ -1,0 +1,37 @@
+body{
+  background-image: url('cover.jpg');
+}
+
+h1,h2{
+  text-align: center;
+  color: white;
+}
+
+
+h4{
+  color: white;
+  text-align: center;
+}
+
+button{
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 50%;
+}
+
+
+#postuser {
+  text-align: center;
+  border-collapse: collapse;
+  width: 50%;
+  color: white;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#postuser td, #postuser th {
+  padding: 3px;
+  padding-left: 10px;
+  font-size: 20px;
+  color: white;
+}
